@@ -1,0 +1,26 @@
+﻿  Mar_hild.cpp
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(61,29): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(62,30): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(76,29): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(77,30): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(97,28): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(98,29): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(150,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(183,36): warning C4244: аргумент: преобразование "float" в "_Elem", возможна потеря данных
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(183,36): warning C4244:         with
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(183,36): warning C4244:         [
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(183,36): warning C4244:             _Elem=char
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(183,36): warning C4244:         ]
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(184,36): warning C4244: аргумент: преобразование "float" в "_Elem", возможна потеря данных
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(184,36): warning C4244:         with
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(184,36): warning C4244:         [
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(184,36): warning C4244:             _Elem=char
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(184,36): warning C4244:         ]
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(185,36): warning C4244: аргумент: преобразование "float" в "_Elem", возможна потеря данных
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(185,36): warning C4244:         with
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(185,36): warning C4244:         [
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(185,36): warning C4244:             _Elem=char
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(185,36): warning C4244:         ]
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(122,6): warning C4101: start_time: неиспользованная локальная переменная
+E:\C++ progs\Posl_mar_x\Posl_mar_x\Mar_hild.cpp(122,18): warning C4101: end_time: неиспользованная локальная переменная
+  Posl_mar_x.vcxproj -> E:\C++ progs\Posl_mar_x\Debug\Posl_mar_x.exe
